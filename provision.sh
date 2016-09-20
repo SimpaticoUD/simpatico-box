@@ -22,6 +22,3 @@ else
   # no changes
   echo "Citizenpedia Up to date"
 fi
-
-npm install
-bower install
